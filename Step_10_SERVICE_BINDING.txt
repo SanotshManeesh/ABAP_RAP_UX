@@ -1,2 +1,2 @@
-No coding required...
-Simply create a Service Binding directly in Eclipse ADT
+No coding required.
+Simply create a Service Binding directly in Eclipse ADT.
